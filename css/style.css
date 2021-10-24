@@ -107,7 +107,7 @@ html,body{
   margin: -27px auto;
   z-index: 4;
   background-color: #ffade1;
-  outline: 6px solid rgba(26, 188, 156, 0.52);
+  outline: 6px solid rgba(255, 173, 225, 0.52);
 }
 .goahead a{
   color: #fff;
@@ -191,7 +191,7 @@ padding: 50px 0px;
   float: right;
   padding: 10px;
   background-color: #ffade1;
-  outline: 8px solid rgba(26, 188, 156, 0.52);
+  outline: 8px solid rgba(255, 173, 225, 0.52);
   margin: 30px;
   cursor: pointer;
 }
@@ -209,7 +209,7 @@ padding: 50px 0px;
 
 .more-details .description::before{
   content: "";
-  border-top: 10px solid rgba(26, 188, 156, 0.52);
+  border-top: 10px solid rgba(255, 173, 225, 0.52);
   position: absolute;
   bottom: 86px;
   width: 100%;
@@ -326,7 +326,7 @@ padding: 50px 0px;
   width: 100px;
   height: 100px;
   background-color: #f6f6f6;
-  border: 8px solid rgba(26, 188, 156, 0.52);
+  border: 8px solid rgba(255, 173, 225, 0.52);
   display: inline-block;
   text-align: center;
   background-repeat: no-repeat;
@@ -362,7 +362,7 @@ padding: 50px 0px;
   display: none;
   width: 43px;
   height: 43px;
-  background-color: rgba(26, 188, 156, 0.52);;
+  background-color: rgba(255, 173, 225, 0.52);;
   position: fixed;
   right: 40px;
   top: 520px;

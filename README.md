@@ -1,5 +1,7 @@
 ## Naomi's GitHub Page
 
+This page is available at https://naomismith.me/
+
 This page will later be used to present:
 - My past experience / work experience
 - Any awards / achievements
